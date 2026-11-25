@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Knajp
 
-<!--
-**Knajp/Knajp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+C++ developer interested in graphics programming,
+systems programming and application development.
 
-Here are some ideas to get you started:
+## Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages:** C++, JavaScript, Python, PHP, HTML & CSS
+- **Graphics:** Vulkan, OpenGL
+- **Frameworks:** Qt
+
+## Featured Projects
+
+Coming soon.
+
+## Interests
+
+- Real-time rendering
+- Graphics programming
+- Software architecture
+- Desktop application development
