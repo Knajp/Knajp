@@ -5,9 +5,9 @@ systems programming and application development.
 
 ## Technologies
 
-- **Languages:** C++, JavaScript, Python, PHP, HTML & CSS
-- **Graphics:** Vulkan, OpenGL
-- **Frameworks:** Qt
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=all" alt="C++">
+</div>
 
 ## Featured Projects
 
