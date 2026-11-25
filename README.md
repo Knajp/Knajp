@@ -6,7 +6,7 @@ systems programming and application development.
 ## Technologies
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=all" alt="C++">
+  <img src="https://skillicons.dev/icons?i=c++" alt="C++">
 </div>
 
 ## Featured Projects
